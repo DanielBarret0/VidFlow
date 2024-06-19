@@ -14,11 +14,24 @@
 # 🎨 Projeto no Figma
 Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0-1)
 
-# 📑 O projeto CodeChella
+# 🤯 Documentando minha trajetória neste projeto.
+
+# Unidade 1 - Apresentando o layout do projeto
+
+- Organizar os arquivos e pastas do projeto;
+- Transformar o layout do Figma em código;
+- Construir o cabeçalho, barra lateral e seção de categorias do VidFlow.
+
+# Unidade 2 - Manipulando elemtnos da página
 
 
+# Unidade 3 - Aplicando áudio e estilos
 
-# 🤯 Minha experiência
+
+# Unidade 4 - Desenvolvendo o temporizador
+
+
+# Unidade 5 - Finalizando o projeto
 
 
 
