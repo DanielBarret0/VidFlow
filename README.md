@@ -21,7 +21,7 @@ Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RV
 - Transformar o layout do Figma em código;
 - Construir o cabeçalho, barra lateral e seção de categorias do VidFlow.
 
-# Unidade 2 - Manipulando elemtnos da página
+# Unidade 2 - Consumindo API
 
 - O que é e como instalar a API Fake JSON Server;
 - Como fazer a busca dos dados na API com o Fetch;
@@ -29,13 +29,13 @@ Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RV
 - Como manipular o DOM para exibir os dados da API;
 - Como usar o .catch para capturar erros.
 
-# Unidade 3 - Aplicando áudio e estilos
+# Unidade 3 - 
 
 
-# Unidade 4 - Desenvolvendo o temporizador
+# Unidade 4 - 
 
 
-# Unidade 5 - Finalizando o projeto
+# Unidade 5 - 
 
 
 
