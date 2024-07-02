@@ -23,6 +23,11 @@ Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RV
 
 # Unidade 2 - Manipulando elemtnos da página
 
+- O que é e como instalar a API Fake JSON Server;
+- Como fazer a busca dos dados na API com o Fetch;
+- Como lidar com .then e com Promises;
+- Como manipular o DOM para exibir os dados da API;
+- Como usar o .catch para capturar erros.
 
 # Unidade 3 - Aplicando áudio e estilos
 
