@@ -29,7 +29,12 @@ Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RV
 - Como manipular o DOM para exibir os dados da API;
 - Como usar o .catch para capturar erros.
 
-# Unidade 3 - 
+# Unidade 3 - Aprimorando o código
+
+- Evitar o “Callback Hell”;
+- Refatorar o código assíncrono com Async/await;
+- Realizar tratamento de erros com os blocos Try-Catch-Finally;
+- Tratar erros personalizados com o throw new Error.
 
 
 # Unidade 4 - 
