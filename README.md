@@ -37,11 +37,11 @@ Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RV
 - Tratar erros personalizados com o throw new Error.
 
 
-# Unidade 4 - 
+# Unidade 4 - Criando Filtros de exibição
 
-
-# Unidade 5 - 
-
+- Implementar uma barra de pesquisa para filtrar vídeos por título;
+- Refatorar o código para torná-lo mais sucinto e organizado;
+- Implementar funcionalidade ao filtro de categorias.
 
 
 ## ⭐ Layout
