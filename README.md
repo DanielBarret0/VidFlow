@@ -53,12 +53,12 @@ Depois, melhorei o código utilizando async/await e capturei os erros de forma m
 
 
 ## ⭐ Layout
-![Layout]()
+![Layout](https://github.com/DanielBarret0/VidFlow/blob/main/prints/projeto-vidflow.gif)
 
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/VidFlow/blob/main/prints/print-tela-cheia.png#vitrinedev">
 </div>
 
 # 🙋‍♂️ Autor
