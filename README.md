@@ -13,6 +13,14 @@ sobre
 ## 🎨 Projeto no Figma
 Acesse esse projeto aqui [Figma](https://www.figma.com/design/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0-1)
 
+# O que aprendi com esse curso
+
+Nessa jornada de aprendizado, construí a aplicação VidFlow.
+
+Para isso, peguei o layout do Figma e o transformei em código. Consumimos uma API para trazer os vídeos da aplicação usando métodos promises.
+
+Depois, melhorei o código utilizando async/await e capturei os erros de forma mais eficiente. Também implementei filtros, como a barra de pesquisa, e adicionei botões de categoria para filtrar a aplicação, como mobile, front-end e data science.
+
 # 🤯 Documentando minha trajetória neste projeto.
 
 # Unidade 1 - Apresentando o layout do projeto
